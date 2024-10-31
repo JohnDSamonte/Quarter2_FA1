@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  margin: 0%, 15%;
+  border: solid;
+  border-color: blue;
+  border-width: 2px;
+  width: 75%;
+}
+h1{
+  background-color: lightgray;
+  margin-top: 20px;
+  padding: 0;
+}
+h2{
+  background-color: lightgray;
+  padding:0;
+  margin:0;
+  font-style: italic;
+}
+.title {
+	color: #5C6AC4;
+}
